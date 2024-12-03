@@ -1,0 +1,5 @@
+SNAKEBIT adalah sebuah game snake retro yang merupakan project LAB yang saya pimpin dan buat bersama rekan-rekan saya.
+
+Code berikut merupakan potongan progress dari project SNAKEBIT tersebut.
+Saya mengurus di bagian gameplay utama yang terdiri dari: setup, map, input, logic, dan game over.
+Saya juga mengurus bagian penyusunan module-module dan beberapa penyesuaian kecil lainnya yang dibutuhkan.

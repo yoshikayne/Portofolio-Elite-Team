@@ -1,0 +1,3 @@
+Code berikut merupakan program yang saya buat untuk Quest Calon Aktivis BNCC beberapa waktu lalu.
+
+Kalkulator Energi Sederhana adalah sebuah program kalkulator sederhana untuk menghitung energi potensial, energi mekanik dan energi kinetik.
